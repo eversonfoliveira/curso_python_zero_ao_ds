@@ -17,24 +17,24 @@ More info can be found on Meigarom's [website](https://sejaumdatascientist.com/o
 
 # Variables Dictionary
 
-· id - número de identificação do imóvel
-· date - data de venda do imóvel
-· price - preço de venda do imóvel
-· bedrooms - número de quartos
-· bathrooms - número de banheiros, sendo 0.5 referente aos banheiros sem chuveiro (lavabo)
-· sqft_living - metragem (em pé quadrado) da área interna do imóvel
-· sqft_lot - metragem (em pé quadrado) do terreno
-· floors - número de andares
-· waterfront - se o imóvel tem vista para o mar (0: não, 1: sim)
-· view - diz respeito à qualidade da vista do imóvel (0 a 4)
-· condition - diz respeito à condição do imóvel (1 a 5)
-· grade - trata da construção e design do imóvel (1-3: baixa qualidade, 7: qualidade média, 11-13: alta qualidade)
-· sqft_above - metragem (em pé quadrado) do espaço interno que está acima do nível do solo
-· sqft_basement - metragem (em pé quadrado) do espaço interno que está abaixo do nível do solo
-· yr_built - ano de construção do imóvel
-· yr_renovated - ano de reforma do imóvel
-· zipcode - CEP do imóvel
-· lat - latitude
-· long - longitude
-· sqft_living15 - média da metragem (em pé quadrado) da área interna do imóvel dos 15 vizinhos mais próximos
-· sqft_lot15 - média da metragem (em pé quadrado) do terreno dos 15 vizinhos mais próximos
+* id - número de identificação do imóvel
+* date - data de venda do imóvel
+* price - preço de venda do imóvel
+* bedrooms - número de quartos
+* bathrooms - número de banheiros, sendo 0.5 referente aos banheiros sem chuveiro (lavabo)
+* sqft_living - metragem (em pé quadrado) da área interna do imóvel
+* sqft_lot - metragem (em pé quadrado) do terreno
+* floors - número de andares
+* waterfront - se o imóvel tem vista para o mar (0: não, 1: sim)
+* view - diz respeito à qualidade da vista do imóvel (0 a 4)
+* condition - diz respeito à condição do imóvel (1 a 5)
+* grade - trata da construção e design do imóvel (1-3: baixa qualidade, 7: qualidade média, 11-13: alta qualidade)
+* sqft_above - metragem (em pé quadrado) do espaço interno que está acima do nível do solo
+* sqft_basement - metragem (em pé quadrado) do espaço interno que está abaixo do nível do solo
+* yr_built - ano de construção do imóvel
+* yr_renovated - ano de reforma do imóvel
+* zipcode - CEP do imóvel
+* lat - latitude
+* long - longitude
+* sqft_living15 - média da metragem (em pé quadrado) da área interna do imóvel dos 15 vizinhos mais próximos
+* sqft_lot15 - média da metragem (em pé quadrado) do terreno dos 15 vizinhos mais próximos
